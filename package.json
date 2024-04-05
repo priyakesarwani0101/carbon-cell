@@ -1,0 +1,31 @@
+{
+  "name": "carbon-cell",
+  "version": "1.0.0",
+  "description": "carbon-cell assignment",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "node.js",
+    "mongodb",
+    "mongoose",
+    "passport",
+    "es6",
+    "es7",
+    "es8",
+    "REST",
+    "API"
+  ],
+  "author": "Priya Kesarwani <priyakesarwani0101@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv-safe": "^9.1.0",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
